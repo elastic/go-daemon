@@ -1,3 +1,3 @@
-module github.com/tsg/go-daemon
+module github.com/elastic/go-daemon
 
 go 1.13
